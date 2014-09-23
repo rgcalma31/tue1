@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tue1
+#
+
+projectname: tue1
+vendorid: com.rad.example
+mainmodule: com.rad.example.tue1
